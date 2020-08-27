@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for alpha testers
 - 💬 Ask me about how to make Rust and Dart work together
 - 😄 Pronouns: he/him
-- 📫 How to reach me: you can contact me on :
 - ⚡ Fun fact: learning languages is fun
+- 📫 How to reach me: you can contact me on :
 
 
 <div style="display:flex; width: 100%; justify-content: center; flex-direction: column; align-items: center;">
