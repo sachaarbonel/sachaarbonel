@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 
 
 
-![Sacha's github stats](https://github-readme-stats.vercel.app/api?username=sachaarbonel&show_icons=true&theme=radical)
+![Sacha's github stats](https://github-readme-stats.vercel.app/api?username=sachaarbonel&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
   <!--![Sacha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachaarbonel&layout=compact&hide=php,java)-->
