@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 **My stack of choice**  
 
 - Cross platform apps <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-- Backend and low level stuff <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-- NLP and ML <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>    
-- Database <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>    
-- Container orchestration <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>     
+- Backend and low level stuff [<img alt="Sacha Arbonel's Github repositories related to Rust" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">](https://github.com/sachaarbonel?tab=repositories&q=&language=rust)
+- NLP and ML [<img alt="Sacha Arbonel's Github repositories related to Rust" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://github.com/sachaarbonel?tab=repositories&q=&language=python)
+- Database [<img alt="Sacha Arbonel's Github repositories related to Postgresql" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">](https://github.com/sachaarbonel?tab=repositories&q=postgresql&type=&language=)
+- Container orchestration [<img alt="Sacha Arbonel's Github repositories related to Docker" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">](https://github.com/sachaarbonel?tab=repositories&q=docker&language=)   
 <!--
 <div style="display:flex; width: 100%; justify-content: center; flex-direction: column; align-items: center;">
 	<div>
