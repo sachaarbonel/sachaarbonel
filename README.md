@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a language learning app (starting with Japanese)
-- 🌱 I’m currently learning : typescript,cdk, Nextjs
+- 🌱 I’m currently learning : typescript, cdk, Nextjs
 - 👯 I’m looking to collaborate on anything Flutter or Rust related
 - 🤔 I’m looking for alpha testers
 - 💬 Ask me about anything [here](https://github.com/sachaarbonel/sachaarbonel/issues)
