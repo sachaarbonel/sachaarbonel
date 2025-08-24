@@ -1,91 +1,37 @@
-### Hi there I'm Sacha 👋
+# Hi, I'm Sacha 👋
 
-<a
-		href="https://twitter.com/sachaarbonel"
-	>
-		<img alt="Sacha Arbonel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-	</a>
-<a
-		href="https://www.linkedin.com/in/sacha-arbonel/"
-	>
-		<img alt="Sacha Arbonel's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="#fff" />
-	</a>
-	<a
-		href="https://github.com/sachaarbonel"
-	>
-		<img alt="Sacha Arbonel's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-	</a>
-	<a
-		href="https://medium.com/@sachaarbonel"
-	>
-		<img alt="Sacha Arbonel's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-	</a>
-	<a
-		class="footer-link footer-link-hide"
-		href="mailto:sacha.arbonel@hotmail.fr"
-		target="_blank"
-		aria-label="Mail"
-		rel="noopener"
-	>
-		<img alt="Sacha Arbonel's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-	</a>
-	
+[Twitter](https://twitter.com/sachaarbonel) • [LinkedIn](https://www.linkedin.com/in/sacha-arbonel/) • [GitHub](https://github.com/sachaarbonel) • [Medium](https://medium.com/@sachaarbonel) • [Email](mailto:sacha.arbonel@hotmail.fr)
 
-<br />
-<br />
+I’m a Software Engineer with **7+ years** in backend and mobile. I’ve shipped systems that reached **over a billion users** and ran services that process **millions of messages a day**. I care about open source, clear design, and reliable scale.
 
-<!--
-**sachaarbonel/sachaarbonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I work on
+- Pion/WebRTC–based media I/O library used by other services (egress/ingestion for transcription & recording; ingress for **HLS**, **WHIP**, **SRT**).
+- Whisper infrastructure: language **hot-reload config** (no restart), **Prometheus**/**CloudWatch** metrics, **Grafana** dashboards, rollout speed-ups with **Packer-baked AMIs**, and **CloudFormation** maintenance.
+- VAD with **Silero** via **ONNX Runtime (Go)** to enable **real-time captions** (no VAD → no live captions) and reduce waste.
+- Accuracy work: built a hallucination dataset (transcribed a noise corpus) + **Aho-Corasick** matcher in Go, with **deloops** and **Unicode range filters** to remove hallucinations; important for most customers and critical for **healthcare**.
+- Codegen & SDKs: internal **OpenAPI → server-side SDK** tooling; owner of the **Python** and **Go** SDKs (**35k+ LOC** each).
+- Product support: outages on rotation, post-mortems, indexes for big imports, quick fixes across chat and dashboard (picked up **Django** fast when needed).
 
--->
+## Highlights
+- p95 live transcription/closed captions: **~650 ms → ~300 ms**.  
+- Cost: **~36× cheaper** than OpenAI 4o transcribe for our load.  
+- Rollouts: **~11 min → ~1 min** with Packer AMIs + trimmed Puppet.  
+- One service for transcription **and** captions → **~50% infra/ops reduction**.  
+- Proved **CPU wasn’t the bottleneck**; eased GPU concurrency with **NVIDIA MPS**.  
+- Quality: sales team **dogfoods** our app as a Gong replacement.  
 
+## Tech
+Go • Rust • Python • C++/CUDA • Whisper • ONNX Runtime • Pion/WebRTC • HLS • WHIP • SRT • AWS • CloudFormation (maintenance) • CloudWatch • Prometheus • Grafana • Packer/AMIs • Puppet • Logs Insights • Nsight • NVIDIA MPS • OpenAPI • Aho-Corasick
 
-- 🔭 I’m currently working on a language learning app (starting with Japanese)
-- 🌱 I’m currently learning : typescript, cdk, Nextjs
-- 👯 I’m looking to collaborate on anything Flutter or Rust related
-- 🤔 I’m looking for alpha testers
-- 💬 Ask me about anything [here](https://github.com/sachaarbonel/sachaarbonel/issues)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: learning languages is fun
+## Writing
+- Medium: https://medium.com/@sachaarbonel
 
+## Contact
+- Issues welcome: https://github.com/sachaarbonel/sachaarbonel/issues
+- Email: sacha.arbonel@hotmail.fr
 
-**My stack of choice**  
+---
 
-- Cross platform apps [<img alt="Sacha Arbonel's Github repositories related to Flutter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">](https://github.com/sachaarbonel?tab=repositories&q=flutter&type=public&language=) [<img alt="Sacha Arbonel's Github repositories related to Dart" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">](https://github.com/sachaarbonel?tab=repositories&q=dart&type=public&language=)
-- Backend and low level stuff [<img alt="Sacha Arbonel's Github repositories related to Rust" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">](https://github.com/sachaarbonel?tab=repositories&q=&language=rust)
-- NLP, ML, Web Scraping [<img alt="Sacha Arbonel's Github repositories related to NLP and ML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://github.com/sachaarbonel?tab=repositories&q=&language=python)
-- Database [<img alt="Sacha Arbonel's Github repositories related to Postgresql" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">](https://github.com/sachaarbonel?tab=repositories&q=postgresql&type=&language=)
-- Container orchestration [<img alt="Sacha Arbonel's Github repositories related to Kubernetes" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png">](https://github.com/sachaarbonel?tab=repositories&q=k8s&language=)   [<img alt="Sacha Arbonel's Github repositories related to Docker" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">](https://github.com/sachaarbonel?tab=repositories&q=docker&language=)   
-<!--
-<div style="display:flex; width: 100%; justify-content: center; flex-direction: column; align-items: center;">
-	<div>
-	Interested in collaborating? <a href="mailto:sacha.arbonel@hotmail.fr">Send me a message</a> 
-      • Want to support my work? <a href="https://www.buymeacoffee.com/sachaarbonel">Buy me a coffee</a>
-</div>
-<div style="display:flex; width: 200px; justify-content: space-between; margin-top: 20px;">
-		
-
-  
-	<a
-		href="https://stackoverflow.com/users/14094532/sacha-arbonel"
-	>
-		<img alt="Sacha Arbonel's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-	</a>
-
-  
-	<a
-		href="sacha.codes/rss.xml"
-	>
-		<img alt="Sacha Arbonel's Rss" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />
-	</a></div>
--->
-
-
-
-
-
-![Sacha's github stats](https://github-readme-stats.vercel.app/api?username=sachaarbonel&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-  <!--![Sacha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachaarbonel&layout=compact&hide=php,java)-->
+![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachaarbonel&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
