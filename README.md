@@ -23,7 +23,7 @@ I’m a Software Engineer with **7+ years** in backend and mobile. I’ve shippe
 - Quality: sales team **dogfoods** our app as a Gong replacement.  
 
 ## Tech
-Go • Rust • Python • C++/CUDA • Whisper • ONNX Runtime • Pion/WebRTC • HLS • WHIP • SRT • AWS • CloudFormation (maintenance) • CloudWatch • Prometheus • Grafana • Packer/AMIs • Puppet • Logs Insights • Nsight • NVIDIA MPS • OpenAPI • Aho-Corasick
+Go • Rust • Python • C++/CUDA • Whisper • ONNX Runtime • Pion/WebRTC • AWS • CloudFormation (maintenance) • CloudWatch • Prometheus • Grafana • Packer/AMIs • Puppet • Kibana • Nsight • NVIDIA MPS • OpenAPI
 
 ## Writing
 - Medium: https://medium.com/@sachaarbonel
