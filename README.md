@@ -7,13 +7,10 @@ Software engineer. Backend and media systems. Seven years in production work. Sy
 ---
 
 ## Work
-- Media I/O on Pion/WebRTC. Egress/ingress for transcription, recording, HLS, WHIP, and SRT.
-- Realtime ASR infra. Metrics in Prometheus/CloudWatch. Grafana dashboards. Faster rollouts with Packer AMIs. CloudFormation upkeep.
-- Accuracy. Built a hallucination dataset from a noise corpus. Aho-Corasick matcher in Go with deloops and Unicode range filters. Used across customers, key for healthcare.
-- Codegen and SDKs. Internal OpenAPI → server SDK tooling. Own the Python and Go SDKs (~35k LOC each).
-- Product support. On-call for outages. Post-mortems. Query speedups with indexes. Quick fixes in chat and dashboard. Spin up Django when needed.
-
-## Results
+- Media I/O on Pion/WebRTC. 
+- Realtime ASR infra. 
+- Accuracy. Built a hallucination dataset from a noise corpus. Aho-Corasick matcher in Go with deloops and Unicode range filters.
+- Codegen and SDKs. 
 - Live transcription/CC p95: ~650 ms → ~300 ms.
 - Cost: ~36× lower than other vendors.
 
