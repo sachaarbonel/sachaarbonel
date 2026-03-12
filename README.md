@@ -2,7 +2,7 @@
 
 [Twitter](https://twitter.com/sachaarbonel) • [LinkedIn](https://www.linkedin.com/in/sacha-arbonel/) • [GitHub](https://github.com/sachaarbonel) • [Medium](https://medium.com/@sachaarbonel) • [Email](mailto:sacha.arbonel@hotmail.fr)
 
-Software engineer. Backend and media systems. Seven years in production work. Systems used by 1B+ users. Services handle millions of messages each day. I care about open source, clear design, and steady scale. Building  [Spokira]([https://twitter.com/sachaarbonel](https://spokira.com/)) 
+Software engineer. Backend and media systems. Seven years in production work. Systems used by 1B+ users. Services handle millions of messages each day. I care about open source, clear design, and steady scale. Building  [Spokira](https://spokira.com) 
 
 ---
 
